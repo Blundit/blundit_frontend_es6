@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-ExpertSubstantiations = require("components/ExpertSubstantiations");
+ExpertSubstantiations from "../components/ExpertSubstantiations");
 
 import Links from '../shared/Links';
 

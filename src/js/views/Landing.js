@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
 import Header from "../components/Header";
-import Footer from "components/Footer";
-import PredictionCard from "components/PredictionCard";
-import PredictionTextCard from "components/PredictionTextCard";
-import ExpertCard from "components/ExpertCard";
-import ExpertTextCard from "components/ExpertTextCard";
-import ClaimCard from "components/ClaimCard";
-import LoadingBlock from "components/LoadingBlock";
+import Footer from "../components/Footer";
+import PredictionCard from "../components/PredictionCard";
+import PredictionTextCard from "../components/PredictionTextCard";
+import ExpertCard from "../components/ExpertCard";
+import ExpertTextCard from "../components/ExpertTextCard";
+import ClaimCard from "../components/ClaimCard";
+import LoadingBlock from "../components/LoadingBlock";
 
 /*
 TODO: Implement this with the new store schema

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import InlineLink from "components/InlineLink";
+import InlineLink from "../components/InlineLink";
 
 import {
   RefreshIndicator,

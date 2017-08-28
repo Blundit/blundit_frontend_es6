@@ -1,9 +1,9 @@
 { div, span } = React.DOM
 
-Login = require("components/Login")
-Register = require("components/Register")
-ForgotPassword = require("components/ForgotPassword")
-RegistrationSuccessful = require("components/RegistrationSuccessful")
+Login from "../components/Login")
+Register from "../components/Register")
+ForgotPassword from "../components/ForgotPassword")
+RegistrationSuccessful from "../components/RegistrationSuccessful")
 
 module.exports = React.createFactory React.createClass
   getInitialState: ->
@@ -16,13 +16,13 @@ let ForgotPassword, Login, Register, RegistrationSuccessful, div, ref, span;
 
 ref = React.DOM, div = ref.div, span = ref.span;
 
-Login = require("components/Login");
+Login from "../components/Login");
 
-Register = require("components/Register");
+Register from "../components/Register");
 
-ForgotPassword = require("components/ForgotPassword");
+ForgotPassword from "../components/ForgotPassword");
 
-RegistrationSuccessful = require("components/RegistrationSuccessful");
+RegistrationSuccessful from "../components/RegistrationSuccessful");
 
 module.exports = React.createFactory(React.createClass({
   getInitialState () {

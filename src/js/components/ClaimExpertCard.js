@@ -1,4 +1,4 @@
-import ExpertSubstantiations from "components/ExpertSubstantiations";
+import ExpertSubstantiations from "../components/ExpertSubstantiations";
 import Links from '../shared/Links';
 import Avatar from '../shared/Avatar';
 

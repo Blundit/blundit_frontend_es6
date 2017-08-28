@@ -1,5 +1,3 @@
-let ExpertFields, Footer, Header, div;
-
 import React, { Component } from 'react';
 
 import Header from '../components/Header';
